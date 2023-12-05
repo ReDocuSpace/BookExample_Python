@@ -155,3 +155,5 @@ Lecture02/Tranning/LICENSE.chromedriver
 *.png
 *.jpg
 *.csv
+*.chromedriver
+*.exe
